@@ -33,6 +33,7 @@ location-based AI models.
 - Performance: AUC: 0.7830, Attack Accuracy: 0.7039
 
 ## Repository Structure
+```
 poi-privacy-mi/
 ├── README.md
 ├── data/
@@ -41,6 +42,7 @@ poi-privacy-mi/
 ├── preprocess.py    # Data preprocessing
 ├── target_model.py  # POITransformer
 └── attack_model.py  # Attack MLP
+```
 
 ## References
 - Wongso et al., "GenUP: Generative User Profilers as In-Context Learners 
